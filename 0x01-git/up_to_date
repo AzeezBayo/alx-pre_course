@@ -1,7 +1,1 @@
-git clone
-git config --global user.name
-git config --global user.email
-git add .
-git commit -m ""
-git push
-git push origin
+git commit -m "How to be up to date in git"
