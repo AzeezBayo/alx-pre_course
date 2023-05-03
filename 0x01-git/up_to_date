@@ -1,4 +1,7 @@
+git clone https://github.com/AzeezBayo/alx-pre_course.git
+git config --global user.email "azeez.bayo@outlook.com"
+git config --global user.name "AzeezBayo"
 git add .
-git commit -m
-git git push origin
+git commit -m "my first commit"
+git push
 git push origin
