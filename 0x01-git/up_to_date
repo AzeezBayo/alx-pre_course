@@ -1,1 +1,6 @@
-git commit -m "How to be up to date in git"
+git clone
+git config --global user.email " "
+git config --global user.name" "
+git add .
+git commit -m "My first commit -m"
+git push origin
